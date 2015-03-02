@@ -1,2 +1,2 @@
 # HackExeter-EyeSpy
-Our submission for the 2015 HackExeter Hackathon
+EyeSpy uses an eye tracking algorithm to allow you to take control of your computer using just your eyes.
